@@ -24,27 +24,31 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 
 ### Exercício 1 - [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
 
+![](prints/785.png)
 Dificuldade: 🟡 Média
 Problema: [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
 Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_785.cpp)
 
 ### Exercício 2 - [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)
 
+![](prints/847.png)
 Dificuldade: 🔴 Difícil
 Problema: [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)
 [Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_847.cpp)
 
-### Exercício 3 - [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/)
+### Exerício 3 - [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
 
-Dificuldade: 🔴 Difícil
-Problema: [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/)
-[Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_2608.cpp)
-
-### Exerício 4 - [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
-
+![](prints/2360.png)
 Dificuldade: 🔴 Difícil
 Problema: [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
 [Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_2360.cpp)
+
+### Exercício 4 - [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/)
+
+![](prints/2608.png)
+Dificuldade: 🔴 Difícil
+Problema: [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/)
+[Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_2608.cpp)
 
 ## Instalação 
 **Linguagem**: C++
