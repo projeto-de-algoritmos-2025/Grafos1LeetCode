@@ -3,7 +3,8 @@
 
 **Número da Lista**: 1
 **Conteúdo da Disciplina**: Grafos 1
- 
+[**Vídeo da Apresentação**](https://youtu.be/tNxvcpbu-UA)
+
 ## Alunos
 |Matrícula | Aluno |GitHub|
 | -- | -- | -- |
@@ -25,30 +26,30 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 ### Exercício 1 - [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
 
 ![](prints/785.png)
-Dificuldade: 🟡 Média
-Problema: [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_785.cpp)
+Dificuldade: 🟡 Média <br>
+Problema: [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) <br>
+[Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_785.cpp) <br>
 
 ### Exercício 2 - [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)
 
 ![](prints/847.png)
-Dificuldade: 🔴 Difícil
-Problema: [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)
-[Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_847.cpp)
+Dificuldade: 🔴 Difícil <br>
+Problema: [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes) <br>
+[Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_847.cpp) <br>
 
 ### Exerício 3 - [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
 
 ![](prints/2360.png)
-Dificuldade: 🔴 Difícil
-Problema: [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
-[Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_2360.cpp)
+Dificuldade: 🔴 Difícil <br>
+Problema: [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) <br>
+[Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_2360.cpp) <br>
 
 ### Exercício 4 - [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/)
 
 ![](prints/2608.png)
-Dificuldade: 🔴 Difícil
-Problema: [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/)
-[Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_2608.cpp)
+Dificuldade: 🔴 Difícil <br>
+Problema: [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/) <br>
+[Resposta](https://github.com/projeto-de-algoritmos-2025/Grafos1LeetCode/blob/main/questoes/leetCode_2608.cpp) <br>
 
 ## Instalação 
 **Linguagem**: C++
@@ -67,3 +68,6 @@ Para cada código, deve-se:
 - 7: Clicar em ```Run``` para testar os casos básicos.
 
 - 8: Clicar em ```Submit``` para receber o resultado de aprovação do código.
+  
+## Vídeo de Apresentação
+Acesse o vídeo de explicação das resoluções [clicando aqui](https://youtu.be/tNxvcpbu-UA).
